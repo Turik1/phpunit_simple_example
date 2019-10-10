@@ -9,5 +9,10 @@ class Calculator
 	public function substract($a, $b)
 	{
 		return $a - $b;
+	}
+
+	public function multiplication($a, $b)
+	{
+		return $a * $b;
 	} 
 }
