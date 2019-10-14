@@ -1,5 +1,5 @@
 <?php
-require 'Calculator.php';
+require 'Calculator2.php';
  
 class CalculatorTests extends \PHPUnit\Framework\TestCase
 {
